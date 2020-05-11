@@ -1,0 +1,7 @@
+.idea
+.ipynb_checkpoints
+.DS_Store
+venv
+data/cocktails/
+data/glasses/
+data/ingredients
